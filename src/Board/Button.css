@@ -1,0 +1,12 @@
+button{
+    border: 2px solid;
+    padding: 6px;
+    margin: 7px;
+    width: 150px;
+    border-radius: 5px;
+    font-size: 20px;
+    font-family: 'Poppins', sans-serif;
+    background-color: #7765f1;
+    color: white;
+    cursor: pointer;
+}

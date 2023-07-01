@@ -1,0 +1,17 @@
+.Board{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    border-radius: 12px;
+    padding: 45px;
+    height: 260px;
+    box-shadow: 0 5px 25px rgba(0,0,0,.4);
+    background-color: whitesmoke;
+}
+
+.square-row{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
